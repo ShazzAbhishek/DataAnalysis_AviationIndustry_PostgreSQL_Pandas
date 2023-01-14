@@ -16,6 +16,16 @@ Frequency of the flights from origin to destinatiosn.
 ![Alt text](https://github.com/ShazzAbhishek/DataAnalysis_AviationIndustry_PostgreSQL_Pandas/blob/main/Frequency_of_source_destination.png)
 
 
+Flights that had highest delays: Delays more than 15 minutes was considered as a loss. 
+
+![Alt text](https://github.com/ShazzAbhishek/DataAnalysis_AviationIndustry_PostgreSQL_Pandas/blob/main/Delays.png)
+
+
+ Cancelled flights.
+ 
+ ![Alt text](https://github.com/ShazzAbhishek/DataAnalysis_AviationIndustry_PostgreSQL_Pandas/blob/main/cancelled.png)
+
+
 
 
 
