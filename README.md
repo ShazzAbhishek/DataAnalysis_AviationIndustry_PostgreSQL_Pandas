@@ -26,6 +26,17 @@ Flights that had highest delays: Delays more than 15 minutes was considered as a
  ![Alt text](https://github.com/ShazzAbhishek/DataAnalysis_AviationIndustry_PostgreSQL_Pandas/blob/main/cancelled.png)
 
 
+ Round_trips_sql_command
+ 
+ ![Alt text](https://github.com/ShazzAbhishek/DataAnalysis_AviationIndustry_PostgreSQL_Pandas/blob/main/round_trip_Calculation_sql.png)
+ 
+ 
+ Unique_trips_sql
+ 
+ ![Alt text](https://github.com/ShazzAbhishek/DataAnalysis_AviationIndustry_PostgreSQL_Pandas/blob/main/unique_trips_sql.png)
+ 
+
+
 
 
 
